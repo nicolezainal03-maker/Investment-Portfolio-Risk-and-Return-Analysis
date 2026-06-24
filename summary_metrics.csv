@@ -1,0 +1,7 @@
+Entity,Annual Return (%),Volatility (%),VaR 95% (%),Sharpe Ratio,vs SPY (Return %),Benchmark
+SPY,14.2773,20.9973,-20.3683,0.5847,0.0,Benchmark
+XLK,21.1624,27.9555,-24.9642,0.6855,6.8851,Outperform
+XLF,11.4275,26.3604,-32.0672,0.3576,-2.8498,Underperform
+XLV,7.8614,18.34,-22.3996,0.3196,-6.4159,Underperform
+XLE,12.0386,36.4073,-48.0335,0.2757,-2.2387,Underperform
+portfolio,14.5207,22.2817,-22.2441,0.5619,0.2434,Outperform
